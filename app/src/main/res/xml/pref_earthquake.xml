@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="5"
+        android:key="magnitude"
+        android:title="Magnitude"
+        android:summary="Select minimum magnitude"/>
+    <EditTextPreference
+        android:defaultValue="20"
+        android:key="no_of_items"
+        android:title="No of earthquakes"
+        android:summary="Select the no of earthquakes to be displayed"/>
+
+</PreferenceScreen>

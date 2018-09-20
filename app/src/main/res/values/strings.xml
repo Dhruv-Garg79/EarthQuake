@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quake Report</string>
+    <string name="network">No internet connection</string>
+    <string name="not_detected">No earthquake detected</string>
+    <string name="settings_item">Settings</string>
+    <string name="settings_title">Settings menu</string>
+</resources>
